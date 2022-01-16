@@ -1,4 +1,4 @@
-# output of 
+# output of run_kubernetes.sh
 Login Succeeded
 pod/ml-app created
 NAME     READY   STATUS              RESTARTS   AGE
